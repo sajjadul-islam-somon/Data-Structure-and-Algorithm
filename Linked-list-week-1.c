@@ -11,6 +11,7 @@ struct Student
     char phone[20];
     struct Student *nxt;
 } *s1, *s2, *s3;
+
 void List(struct Student *p)
 {
     int i = 0;
