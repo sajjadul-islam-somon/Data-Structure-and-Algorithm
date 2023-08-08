@@ -1,5 +1,4 @@
 // Linked List of number of students using struct
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
