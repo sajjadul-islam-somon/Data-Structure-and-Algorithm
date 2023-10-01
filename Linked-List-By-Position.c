@@ -1,4 +1,4 @@
-// Linked list by position
+// Linked list by position.
 
 #include <stdio.h>
 #include <stdlib.h>
